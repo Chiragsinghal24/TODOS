@@ -21,14 +21,8 @@ Welcome to TodoApp! This simple and intuitive todo list application helps you ma
 4. **Deleting a Task:** If you want to remove a task from your list, click the "Delete" button next to the task.
 
 ## Preview
-## Signup
-![image](https://github.com/Chiragsinghal24/TODOS/assets/102845461/6691517a-f730-460e-9a56-5af738362c1e) ![image](https://github.com/Chiragsinghal24/TODOS/assets/102845461/0c649ad4-6057-4344-be6e-5a4dca097cfb)
-## Login
-![image](https://github.com/Chiragsinghal24/TODOS/assets/102845461/0c649ad4-6057-4344-be6e-5a4dca097cfb)
-## INITIAL IMAGE
-![image](https://github.com/Chiragsinghal24/TODOS/assets/102845461/11c16eec-6aa8-4e30-a066-79247a0272aa)
-## UPDATING TASK
-![image](https://github.com/Chiragsinghal24/TODOS/assets/102845461/494062fc-0184-4221-8e83-db1a61757e19)
+## Signup ## Login ## INITIAL IMAGE ## UPDATING TASK
+![image](https://github.com/Chiragsinghal24/TODOS/assets/102845461/6691517a-f730-460e-9a56-5af738362c1e) ![image](https://github.com/Chiragsinghal24/TODOS/assets/102845461/0c649ad4-6057-4344-be6e-5a4dca097cfb) ![image](https://github.com/Chiragsinghal24/TODOS/assets/102845461/11c16eec-6aa8-4e30-a066-79247a0272aa) ![image](https://github.com/Chiragsinghal24/TODOS/assets/102845461/494062fc-0184-4221-8e83-db1a61757e19)
 ## FINAL IMAGE
 ![image](https://github.com/Chiragsinghal24/TODOS/assets/102845461/588396c4-742c-44fb-83b4-3994a940061c)
 
