@@ -24,10 +24,7 @@ Welcome to TodoApp! This simple and intuitive todo list application helps you ma
 ## Signup and Login
 ![image](https://github.com/Chiragsinghal24/TODOS/assets/102845461/4eb2f5e5-db43-4499-a05e-182ae1f4c995) ![image](https://github.com/Chiragsinghal24/TODOS/assets/102845461/7f5b7a75-8c70-488d-b021-ad7c087e328d)
 ## Todo Page, Update Page
-![image](https://github.com/Chiragsinghal24/TODOS/assets/102845461/11c16eec-6aa8-4e30-a066-79247a0272aa) ![image](https://github.com/Chiragsinghal24/TODOS/assets/102845461/494062fc-0184-4221-8e83-db1a61757e19)
-## FINAL IMAGE
-![image](https://github.com/Chiragsinghal24/TODOS/assets/102845461/588396c4-742c-44fb-83b4-3994a940061c)
-
+![image](https://github.com/Chiragsinghal24/TODOS/assets/102845461/61785b1e-5276-4c1c-a3b4-21db00fa3af3) ![image](https://github.com/Chiragsinghal24/TODOS/assets/102845461/8de667de-b5f1-48b1-8186-f1abb854082b)
 
 ## Contributer
 Chirag Singhal
