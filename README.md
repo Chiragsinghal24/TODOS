@@ -18,10 +18,14 @@ Welcome to TodoApp! This simple and intuitive todo list application helps you ma
 4. **Deleting a Task:** If you want to remove a task from your list, click the "Delete" button next to the task.
 
 ## Preview
-![image](https://github.com/Chiragsinghal24/TODOS/assets/102845461/36673e00-718c-4d10-862a-52e8d6ba2c00)
+## INITIAL IMAGE ![image](https://github.com/Chiragsinghal24/TODOS/assets/102845461/36673e00-718c-4d10-862a-52e8d6ba2c00)
+## UPDATING TASK ![image](https://github.com/Chiragsinghal24/TODOS/assets/102845461/722a7e64-dda8-4873-acd6-36d63a3ca1a9)
+## FINAL IMAGE ![image](https://github.com/Chiragsinghal24/TODOS/assets/102845461/0af54e48-13bd-4d8d-a316-3af1fded8e1a)
 
 
-## contibuter
+
+
+## Contributer
 Chirag Singhal
 
 Happy task managing with TodoApp! 🚀
